@@ -1,0 +1,8 @@
+מצאו את המטריצה ההופכית למטריצה הבאה
+\( \begin{bmatrix}
+    1 & 1 & 1 & \ldots & 1  \\
+    0 & 1 & 1 & \ldots & 1  \\
+    0 & 0 & 1 & \ldots & 1  \\
+    \ldots & \ldots & \ldots & \ldots & \ldots \\
+    0 & 0 & 0 & \ldots & 1 
+\end{bmatrix}\).

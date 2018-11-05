@@ -1,0 +1,3 @@
+יהיו \( U \), \( V \) ו- \( W \) תתי מרחב לינאריים במרחב וקטורי מסויים.
+<br/><br/>
+הוכיחו כי \( W \cap \left[ \left( W+V \right) \cap U + \left( U+V \right) \cap W \right] = \left( U+V \right) \cap W  \).

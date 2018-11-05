@@ -1,0 +1,9 @@
+יהיו
+\( S \: \colon V \to Z \),\( T \: \colon V \to W \)
+טרנספורמציות לינאריות של מרחבים וקטוריים נוצרים סופית כך ש-
+\( \ker \left( S \right) \subset \ker \left( T \right)\).
+<br/><br/>
+הוכיחו שקיימת טרנספורמציה לינארית
+\( R \: \colon Z \to W \)
+כך ש-
+\( T = R \circ S  \).

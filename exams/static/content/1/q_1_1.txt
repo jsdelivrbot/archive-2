@@ -1,0 +1,1 @@
+יהיו \(\varphi,\psi \in V^*\). נניח כי \( \ker \left( \varphi \right) \subset \ker \left( \psi \right) \). הוכיחו כי קיים סקלר \( \lambda \) כך ש- \( \psi=\lambda \cdot \varphi \).

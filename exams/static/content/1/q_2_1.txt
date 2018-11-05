@@ -1,0 +1,6 @@
+נסמן \( P = span \left\{ \begin{bmatrix} 0 \\ 3 \\ 1 \end{bmatrix} \right\} \),
+     \( Q = span \left\{ \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix},
+                         \begin{bmatrix} -3 \\ 2 \\ 0 \end{bmatrix},
+                         \begin{bmatrix} -2 \\ 3 \\ 1 \end{bmatrix} \right\} \).
+<br /><br />
+הוכיחו כי \( \mathbb{R}^3 = P \oplus Q \) ועבור וקטור \( v = \begin{bmatrix} 1 \\ 4 \\ 1 \end{bmatrix}  \) מצאו הצגה \( v = p + q\) כאשר \( p \in P \), \( q \in Q \).

@@ -1,0 +1,15 @@
+עבור טרנספורמציה לינארית
+\(T\: \colon V \to W  \)
+נגדיר את הטרנספורמציה הלינארית הדואלית
+\(T^*\: \colon W^* \to V^*  \)
+על ידי
+\( T^*(f) &#8788 f \circ T\)
+לכל פונקציונאל לינארי
+\( f \in W^* \).
+<br/><br/>
+הוכיחו שאם \(V\) ו- \(W\) נוצרים סופית אזי \( \left(T^*\right)^* \circ c_{\scriptscriptstyle V} = c_{\scriptscriptstyle W}\circ T \)
+כאשר
+\( c_{\scriptscriptstyle V}\: \colon V \to V^{**} \)
+ו-
+\( c_{\scriptscriptstyle W}\: \colon W \to W^{**} \)
+הם האיזומורפים הקנוניים.
