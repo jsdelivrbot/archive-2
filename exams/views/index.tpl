@@ -9,7 +9,7 @@
     question number 
     <div> {{math_content}}</div>
     <br />
-    <script type="text/javascript" async src='https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS_HTML'></script>
+    <script type="text/javascript" async src='https://cdn.jsdelivr.net/gh/mathjax/MathJax@2.7.1/MathJax.js?config=TeX-AMS_HTML'></script>
   </body>
 </html>
 
